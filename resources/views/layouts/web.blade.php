@@ -10,7 +10,8 @@
     <header class="shadow-lg">
         <div class="bg-blue-900 py-1"></div>
         <nav class="bg-blue-800 py-2">
-            <a href="{{ route('home') }}">
+            
+            <a href="{{ route('dashboard') }}">
                 <img src="{{ asset('images/course.png') }}" class="mx-auto h-8">
             </a>
         </nav>
